@@ -72,7 +72,7 @@ const SystemNavigation = () => {
           route: "/account/role",
           permission: ["user"],
         },
-           {
+        {
           segment: "pending",
           title: "Pending Accounts",
           icon: <BadgeOutlinedIcon />,
